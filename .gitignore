@@ -1,0 +1,4 @@
+.vs
+SRegMachine/bin/
+SRegMachine/obj/
+*.exe
